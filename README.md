@@ -27,19 +27,11 @@ Hi, I'm Bishwa Bhushan Palar! I’m passionate about front-end development, UI/U
 - Building an OCR and generative AI model for processing handwritten diagnoses and summarizing text.
 - Developing e-commerce platform customizations using React and modern CSS frameworks like Tailwind.
 
----
-
-### 📈 **GitHub Stats:**
-
-![Bishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishwa-Bhushan-Palar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwa-Bhushan-Palar&layout=compact&theme=tokyonight)
-
----
 
 ### 🎯 **GSSOC(24) Badges 🪶**
 
 <details>	
-  <summary><b>Click to View Badges</b></summary><br>
+  
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
