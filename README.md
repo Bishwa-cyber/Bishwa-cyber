@@ -30,7 +30,7 @@ Hi, I'm Bishwa Bhushan Palar! I’m passionate about front-end development, UI/U
 
 ### 🎯 **GSSOC(24) Badges 🪶**
 
-<details>	
+
   
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -47,7 +47,7 @@ Hi, I'm Bishwa Bhushan Palar! I’m passionate about front-end development, UI/U
       <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
     </a>
   </div>
-</details>
+
 
 ---
 
